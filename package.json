@@ -1,0 +1,22 @@
+{
+  "name": "react-shop",
+  "version": "1.0.0",
+  "description": "react eshop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Angel Rojas",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.18.9",
+    "@babel/preset-env": "^7.18.9",
+    "@babel/preset-react": "^7.18.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
